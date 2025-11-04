@@ -1,0 +1,11 @@
+
+.vsconfig
+*.csproj
+Library
+Logs
+debug.log
+*.sln
+Temp
+obj
+.vs
+*.dwlt
