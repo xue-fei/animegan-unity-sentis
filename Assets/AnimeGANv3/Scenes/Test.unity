@@ -396,8 +396,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Test
   webcamWidth: 640
   webcamHeight: 480
-  modelAsset: {fileID: 5022602860645237092, guid: 0b896279195c4124287c2a5ec7233a96, type: 3}
+  modelAsset: {fileID: 5022602860645237092, guid: 0b02e9a4e5bc21c41b52b46ae926d902, type: 3}
   rawImage: {fileID: 5701158}
+  renderTexture: {fileID: 8400000, guid: 22353671a3c877b42b805248001d5e30, type: 2}
 --- !u!1 &1300552998
 GameObject:
   m_ObjectHideFlags: 0
